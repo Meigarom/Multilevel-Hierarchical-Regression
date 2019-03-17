@@ -5,6 +5,8 @@
 # Session Data files
 .RData
 
+*.ipynb
+
 *.venv
 
 # Example code in package build process
