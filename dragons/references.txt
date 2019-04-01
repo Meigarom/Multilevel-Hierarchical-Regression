@@ -1,0 +1,11 @@
+https://ourcodingclub.github.io/2017/03/15/mixed-models.html
+https://poissonisfish.wordpress.com/2017/12/11/linear-mixed-effect-models-in-r/
+
+http://www.bodowinter.com/tutorial/bw_LME_tutorial2.pdf
+
+https://github.com/ourcodingclub/CC-Linear-mixed-models
+https://gkhajduk.github.io/2017-03-09-mixed-models/
+
+http://varianceexplained.org/r/broom-intro/
+
+https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf
