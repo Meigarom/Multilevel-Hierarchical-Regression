@@ -20,3 +20,5 @@ kid.score = 26 + 6 mom.hs + 0.6 mom.iq + error
 
 - It's not always possible to change on predictor whicl holding all othres constant. For example, a model that includes interactions between predictors like mom.hs * mom.IQ + mom.IQ^2.
 
+## Chapter 04 - Linear Regression: before and after fitting the model
+# 4.1. Linear Transformations
